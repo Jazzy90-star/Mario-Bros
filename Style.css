@@ -1,0 +1,119 @@
+
+    body {
+        background-image: url('Mario.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        padding-top: 15px;
+        padding-left: 100px;
+        padding-right: 100px;
+        margin: 0;
+    }
+.container {
+    width: 100%; 
+    margin: 50px; 
+    padding: 20px; 
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #f7f6f6; 
+    box-sizing: border-box; 
+    text-align: center;
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    text-align: center;
+    padding: 25px;  
+}
+#image1 img{ /* mario picture on the about us page */
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+#image3 img{ /* luigi picture on the about us page */
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+#image4 img{ /* logo image */
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+    align-content: right;
+}
+#image5 img{ /* customer in background */
+    max-width: 600px;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+#image6 img { /*mario and luigi fist bump */
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+#image7 img { /* mario and luigi in front of van (on maing page)*/   
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+}
+#image8 img {
+    max-width: 600px;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;  
+}
+  
+#image10 img { /* all picutures on our services page*/
+    max-width: 100%;
+    height: auto; 
+    display: block; 
+    margin: 0 auto;
+    padding: 30px;  
+}
+
+h1 {
+font-family:'Times New Roman', Times, serif;
+padding: 20px;
+}
+h2 { /* Now Serving Brooklyn.... text */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+     margin:auto;
+    font-family: 'Permanent Marker', cursive;
+    padding: 40px;
+    font-size: xx-large;
+}
+h3 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;;
+    font-size: larger;
+}
+h4 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    padding: 60px;
+    font-size: large;
+}
+
+.nav-item {
+    font-size: 35px;
+    font-family: 'Bree Serif', serif;
+    color: green;
+}
+#text {
+    font-size: 40px;
+}
+.col {
+    margin-top: 20px ;
+}
